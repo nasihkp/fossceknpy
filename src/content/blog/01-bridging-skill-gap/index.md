@@ -4,8 +4,8 @@ summary: "Bridging the Skills Gap: Preparing for a Future of Technical Excellenc
 date: "Mar 17 2024"
 draft: false
 tags:
-- TinkerHub
-- leaning
+- Foss
+- learning
 - community
 ---
 

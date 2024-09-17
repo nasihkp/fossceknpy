@@ -12,19 +12,16 @@ export const WORK: Page = {
   TITLE: "Work",
   DESCRIPTION: "Places I have worked.",
 }
-
 // Blog Page
 export const BLOG: Page = {
   TITLE: "Blog",
   DESCRIPTION: "Writing on topics I am passionate about.",
 }
-
 // Projects Page 
 export const PROJECTS: Page = {
   TITLE: "Events",
   DESCRIPTION: "Recent events conducted.",
 }
-
 // Search Page
 export const SEARCH: Page = {
   TITLE: "Search",
@@ -65,8 +62,8 @@ export const SOCIALS: Socials = [
   { 
     NAME: "Email",
     ICON: "email", 
-    TEXT: "thceknpy@gmail.com",
-    HREF: "mailto:thceknpy@gmail.com",
+    TEXT: "fossceknpy@gmail.com",
+    HREF: "mailto:fossceknpy@gmail.com",
   },
   { 
     NAME: "Github",
@@ -90,7 +87,7 @@ export const SOCIALS: Socials = [
   // {
   //   NAME: "Twitter",
   //   ICON: "twitter-x",
-  //   TEXT: "TinkerHub CEKNPY",
+  //   TEXT: "foss CEKNPY",
   //   HREF: "#",
   // },
 ]
